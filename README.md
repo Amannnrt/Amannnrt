@@ -1,7 +1,6 @@
 ##  Student | ML Engineering 
 
 Unemployment final boss that happens to like machine learning and engineering.  
-I spend my time at the chaotic intersection of LLMs, MLOps, and developer tooling—breaking pipelines, reading papers, and occasionally shipping things that don't crash. Genuinely curious about how models learn, why data always finds a way to break, and how to build smart tools.
 
 # 🛠️ Tech Stack:
 
